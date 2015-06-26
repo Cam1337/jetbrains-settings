@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping ext="dust" type="HTML" />
       <mapping pattern="copyto-nav" type="PLAIN_TEXT" />
-      <mapping pattern="validateMessageQueues" type="PLAIN_TEXT" />
-      <mapping pattern="collector.js" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="collector.js" type="PLAIN_TEXT" />
+      <mapping pattern="validateMessageQueues" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
